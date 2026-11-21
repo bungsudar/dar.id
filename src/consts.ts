@@ -1,17 +1,17 @@
 import type { Metadata, Site, Socials, WorkExperience, Education, Skills, Certifications } from "@types";
 
 export const SITE: Site = {
-  TITLE: "RafiPriatna.ID",
+  TITLE: "Sudar.id",
   DESCRIPTION:
-    "Blog pribadi Rafi Priatna — tulisan tentang security, programming, dan hal-hal yang saya pelajari.",
+    "Blog pribadi Sudar Blogger — tulisan tentang security, programming, dan hal-hal yang saya pelajari.",
   TAGLINE: "Lifelong Learner ✨",
   USER_EMAIL: "me",
-  DOMAIN: "rafipriatna.id",
+  DOMAIN: "sudar.id",
 };
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "Rafi Priatna's Personal Website.",
+  DESCRIPTION: "Sudarmanto Personal Website.",
 };
 
 export const BLOG: Metadata = {
