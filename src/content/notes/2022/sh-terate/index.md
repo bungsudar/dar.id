@@ -67,7 +67,7 @@ Karena sudah sudah sabuk putih dan banyak agenda untuk Siswa PSHT jadi terbengka
 Dimana saya lepas dengan harga 4 juta 200 ribu yang mana untuk biaya pengesahan nanti dan jaga - jaga untuk keperluan lainnya.
 
 ## Waktu Pengesahan Tiba, Tepat 1 Abad Umur PSHT
-![psht indonesia](sht1.jpg)
+![psht indonesia](sht1.png)
 Sangat bangga memang saat saya ikut ini bertepatan dengan 1 abad umur PSHT oleh karena itu Letting 2022 disebut sebagai Letting Terate Emas. 
 
 Antara bangga dan senang, bangga karena sudah menjadi bagian dari PSHT sedangkan senangnya karena bertepatan 1 Abad umur PSHT ini. 
