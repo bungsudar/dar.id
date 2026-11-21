@@ -11,7 +11,7 @@ Sekarang ada unek - unek lagi yang mana akan saya tulis, mengenai Pengelaman Nge
 Judul nya seperti nya kaya gimana ya bolo, saya buat judul seperti itu karena ada hubugan nya dengan saya menulis di blog, serta berhubungan dengan blogger pula. 
 
 ## Awal Ikut PSHT
-[psht pusat madiun](sht.jpg)
+![psht pusat madiun](sht.jpg)
 Saya sebenarnya belum ada minat masuk organisasi tersebut ya walaupun banyak yang memberi saran untuk iku alias log in lah dalam bahasa sekarang ini. 
 
 Di desa saya yaitu Desa Kedungmentawar sudah basisnya PSHT jadi wajar aja kalau ada yang nawarin untuk ikut, selain banyak dulur juga banyak teman juga, plus nambah pengalaman serta ilmu
